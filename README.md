@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+codesandbox(https://codesandbox.io/s/github/wsd1993/redux-typescript-demo)
+
 ## Available Scripts
 
 In the project directory, you can run:
