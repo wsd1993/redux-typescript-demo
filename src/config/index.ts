@@ -1,0 +1,1 @@
+export const TIMESTAMP: string = 'YYYY-MM-DD dddd HH:mm:ss'
